@@ -25,6 +25,7 @@ RUN conda install --quiet --yes \
     'dill=0.3*' \
     'h5py=2.10*' \
     'hdf5=1.10*' \
+    'nbgrader=0.6.*' \
     'ipywidgets=7.5*' \
     'matplotlib-base=3.1.*' \
     'numba=0.45*' \
